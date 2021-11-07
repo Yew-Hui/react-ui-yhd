@@ -23,7 +23,7 @@ const Fade20 = () => (
 );
 
 class UIShell extends Component {
-  header = "Garage for Cloud Catalyst";
+  header = "EY Green Tax Tracker";
   menuTitle = "12 Design Pattern";
   menuItems = [
     "Display Form",
